@@ -6,7 +6,7 @@ import './index.css';
 
 ReactDOM.render(
   <Auth0Provider
-    domain="vamshipidugu27.us.auth0.com"
+    domain="abcd.us.auth0.com"
     clientId="xAWJvyWuki3d3SCGS2uliQUj51rXhiGt"
     redirectUri={window.location.origin}
   >
